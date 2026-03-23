@@ -1,6 +1,6 @@
 # 𝐓𝐞𝐭𝐫𝐚𝐝 - 𝐓𝐞𝐜𝐡𝐧𝐨 𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞𝐫𝐬
 
-> _Sequencers for Rhythmic & Melodic sequences. Combining kinetic physics, hardware inspired logic and probabilistic sequencing. Specifically designed for Techno._
+> _Sequencers for Rhythmic & Melodic sequences. Combining kinetic physics, hardware inspired logic and probabilistic sequencing._
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
