@@ -66,7 +66,6 @@ _This Max4Live plugin is free. Don't forget to give it a ⭐ on Github if you li
 
 ---
 
-<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/afc2512e-eb91-4c5f-af3c-687e185cee48" />
-</p>
+<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/2f52a05e-21a4-4a22-9fa7-e82cb608de0c" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
